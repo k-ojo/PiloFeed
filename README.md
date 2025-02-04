@@ -4,13 +4,11 @@
 The Feedback Website is a web application designed to collect, manage, and analyze user feedback. It allows users to submit feedback, view past responses, and administrators to manage submissions effectively.
 
 ## Features
-- User-friendly feedback submission form
-- Secure authentication for users and admins
-- Feedback categorization and tagging
-- Dashboard for administrators to manage and analyze feedback
-- Responsive design for mobile and desktop use
-
-## Features to be Added
+- [ ] User-friendly feedback submission form
+- [ ] Secure authentication for users and admins
+- [ ] Feedback categorization and tagging
+- [ ] Dashboard for administrators to manage and analyze feedback
+- [ ] Responsive design for mobile and desktop use
 - [ ] Real-time notifications for feedback submissions
 - [ ] AI-based sentiment analysis on feedback
 - [ ] Multi-language support
