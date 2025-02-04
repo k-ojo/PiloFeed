@@ -5,7 +5,7 @@ The PiloFeed is a web application designed to collect, manage, and analyze user 
 
 ## Project Structure
 ```
-feedback-website/
+PiloFeed/
 │── frontend/
 │   │── src/
 │   │   │── components/
