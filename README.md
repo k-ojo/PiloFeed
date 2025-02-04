@@ -3,6 +3,34 @@
 ## Overview
 The PiloFeed is a web application designed to collect, manage, and analyze user feedback. It allows users to submit feedback, view past responses, and administrators to manage submissions effectively.
 
+## Project Structure
+```
+feedback-website/
+│── frontend/
+│   │── src/
+│   │   │── components/
+│   │   │── pages/
+│   │   │── styles/
+│   │   │── App.js
+│   │   │── index.js
+│   │── public/
+│   │── package.json
+│
+│── backend/
+│   │── app/
+│   │   │── routes/
+│   │   │── models/
+│   │   │── controllers/
+│   │   │── app.py
+│   │── requirements.txt
+│
+│── config/
+│   │── settings.py
+│
+│── .env
+│── README.md
+│── LICENSE
+```
 ## Features
 - [ ] User-friendly feedback submission form
 - [ ] Secure authentication for users and admins
@@ -76,4 +104,11 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Contact
 For any inquiries or contributions, reach out to gideonad4@gmail.com or open an issue in the repository.
+
+
+
+
+
+
+
 
