@@ -26,11 +26,11 @@ The PiloFeed is a web application designed to collect, manage, and analyze user 
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/feedback-website.git
+   git clone https://github.com/k-ojo/PiloFeed.git
    ```
 2. Navigate to the project directory:
    ```sh
-   cd feedback-website
+   cd PiloFeed
    ```
 3. Install dependencies:
    ```sh
@@ -75,5 +75,5 @@ The PiloFeed is a web application designed to collect, manage, and analyze user 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ## Contact
-For any inquiries or contributions, reach out to [Your Email] or open an issue in the repository.
+For any inquiries or contributions, reach out to gideonad4@gmail.com or open an issue in the repository.
 
