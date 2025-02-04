@@ -1,7 +1,7 @@
 # PiloFeed
 
 ## Overview
-The Feedback Website is a web application designed to collect, manage, and analyze user feedback. It allows users to submit feedback, view past responses, and administrators to manage submissions effectively.
+The PiloFeed is a web application designed to collect, manage, and analyze user feedback. It allows users to submit feedback, view past responses, and administrators to manage submissions effectively.
 
 ## Features
 - [ ] User-friendly feedback submission form
